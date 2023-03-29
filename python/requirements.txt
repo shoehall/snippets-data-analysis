@@ -1,0 +1,1 @@
+# faiss install: conda install -c pytorch faiss-cpu
